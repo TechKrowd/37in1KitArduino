@@ -1,6 +1,6 @@
 #include <IRLremote.h>
 
-int INTERRUPCION = 4; //PIN 2
+int INTERRUPCION = 0; //PIN 2
 
 uint8_t protocolo = 0;
 uint16_t direccion = 0;
